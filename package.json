@@ -1,0 +1,16 @@
+{
+  "name": "code-kata",
+  "version": "1.0.0",
+  "description": "A Roman-Arabic numeric converter in TDD workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js --ui bdd"
+  },
+  "author": "Jack Chen",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "mocha": "^8.3.2",
+    "chai": "^4.3.4"
+  }
+}
